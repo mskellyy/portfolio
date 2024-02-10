@@ -103,3 +103,18 @@ p {
 .about-img-size {
   width: 30%;
 }
+
+@media (max-width: 576px) {
+  .sm-formatt {
+    display: none;
+  }
+
+  .sm-center {
+    text-align: center;
+  }
+
+  .about-img-size {
+    display: block;
+    width: 80%;
+  }
+}
