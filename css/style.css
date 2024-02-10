@@ -108,6 +108,10 @@ h6 {
   text-align: center;
 }
 
+footer {
+  margin-top: 30px;
+}
+
 @media (max-width: 576px) {
   .sm-formatt {
     display: none;
