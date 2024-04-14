@@ -18,19 +18,31 @@ h3 {
 
 h1 {
   font-size: 96px;
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h2 {
   font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 h3 {
   font-size: 24px;
   opacity: 0.7;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
 h4 {
   font-size: 40px;
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 p {
@@ -80,6 +92,9 @@ p {
 
 .about-paragraphs p {
   margin: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .email-link {
@@ -106,6 +121,12 @@ p {
 
 h6 {
   text-align: center;
+}
+
+section {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 footer {
