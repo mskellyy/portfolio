@@ -169,6 +169,23 @@ a {
   font-style: normal;
 }
 
+.work-intro {
+  margin-top: 100px;
+}
+
+.emojis {
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+.work-content {
+  margin-top: 70px;
+}
+
+.work-content h2 {
+  font-size: 30px;
+}
+
 @media (max-width: 576px) {
   .sm-formatt {
     display: none;
