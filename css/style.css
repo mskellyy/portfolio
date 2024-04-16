@@ -152,6 +152,7 @@ section {
 
 .contact-container {
   background-color: #f9f7fe;
+  width: 700px;
 }
 
 footer {
@@ -197,13 +198,16 @@ a {
 
   h4 {
     font-size: 37px;
+    text-align: center;
   }
 
   h5 {
     font-size: 14px;
+    text-align: center;
   }
 
   .contact-container {
     margin-top: 100px;
+    width: 500px;
   }
 }
