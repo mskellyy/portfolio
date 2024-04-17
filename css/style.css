@@ -11,7 +11,7 @@ body {
 
 .hero {
   background: var(--secondary-color);
-  padding-top: 80px;
+  padding-top: 50px;
   padding-bottom: 100px;
   text-align: center;
 }
