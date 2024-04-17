@@ -198,6 +198,7 @@ a {
 
 .social-links {
   color: var(--primary-color);
+  padding: 10px;
 }
 
 @media (max-width: 576px) {
