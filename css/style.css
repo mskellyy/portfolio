@@ -30,7 +30,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 90px;
   font-family: "Abril Fatface", serif;
   font-weight: 400;
   font-style: normal;
@@ -102,6 +102,7 @@ p {
   color: var(--primary-color);
   text-align: center;
   display: block;
+  font-size: 13px;
 }
 
 .about-paragraphs {
@@ -155,6 +156,10 @@ section {
   width: 700px;
 }
 
+.contact-container h4 {
+  font-size: 30px;
+}
+
 footer {
   margin-top: 30px;
 }
@@ -184,6 +189,15 @@ a {
 
 .work-content h2 {
   font-size: 30px;
+}
+
+.footer-links {
+  text-align: center;
+  font-size: 18px;
+}
+
+.social-links {
+  color: var(--primary-color);
 }
 
 @media (max-width: 576px) {
