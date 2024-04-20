@@ -6,7 +6,6 @@
 
 body {
   margin: 60px auto;
-  max-width: 1000px;
 }
 
 .hero {
@@ -199,6 +198,10 @@ a {
 .social-links {
   color: var(--primary-color);
   padding: 10px;
+}
+
+.open-source {
+  color: var(--primary-color);
 }
 
 @media (max-width: 576px) {
